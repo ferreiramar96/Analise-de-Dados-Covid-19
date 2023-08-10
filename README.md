@@ -12,7 +12,7 @@ Nesse projeto realizei algumas análises e visualizações utilizando alguns gr�
 * Evolução dos casos de Covid-19
 * Quantidade de pessoas vacinadas
 
-E além desses pontos citados a cima, resolvi pegar mais alguns insights para poder realiazar mais algumas visualizações mais importantes. E é claro, que eu não poderia deixar de fazer uma análise exclusiva para o Brasil.
+E além desses pontos citados a cima, resolvi pegar mais alguns insights para poder realiazar mais algumas visualizações mais importantes. E é claro, que eu não poderia deixar de fazer uma análise exclusiva para o Brasil e aproveitar e contar um belo storytelling ao longo de todo o nosso projeto.
 
 Aos longo do projeto foi utilizado: Storytelling, Linguagem de programação Python, junto com algumas técnicas de visualização dos dados.
 
